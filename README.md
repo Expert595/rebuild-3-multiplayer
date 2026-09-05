@@ -22,3 +22,4 @@ If needed, run `Allow Multiplayer Port 31337.bat` once as Administrator. Both pl
 - Retained remote territory colors: Player 1 blue and Player 2 purple.
 - Retained synchronized turn-based mode: the day advances after both players select Next Day.
 - Retained shared pause and real-time speed controls.
+Support me on ko-fi if you like what I do. To help me.  https://ko-fi.com/arielmp
